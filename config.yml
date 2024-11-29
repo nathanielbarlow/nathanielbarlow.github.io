@@ -64,18 +64,10 @@ params:
               url: courses/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: resume_6_24.pdf
+          url: resume_11_24.pdf
         - name: Email
           url: mailto:nbarlow@g.ucla.edu
         - name: Location
