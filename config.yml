@@ -22,9 +22,6 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
     description: "I am a PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with a focus on immigrants and labor."
@@ -60,10 +57,9 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
+            - name: CV
+              url: cv/
+
 
     socialIcons:
         - name: CV
@@ -72,8 +68,6 @@ params:
           url: mailto:nbarlow@g.ucla.edu
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: GitHub
           url: https://github.com/nathanielbarlow
 
