@@ -46,8 +46,8 @@ params:
           title: Nathaniel Barlow
           subtitle: "I am a PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with a focus on immigrants and labor."
           imageUrl: "headshot.jpg"
-          imageWidth: 360
-          imageHeight: 360
+          imageWidth: 240
+          imageHeight: 240
           buttons:
             - name: Papers
               url: papers/
