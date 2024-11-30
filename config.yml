@@ -13,12 +13,12 @@ menu:
         - name: CV
           url: cv/
           weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
 
 params:
-    description: "I am a PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with a focus on immigrants and labor."
+    description: "I am a PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with an emphasis on immigrants and labor."
     author: Nathaniel Barlow
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,13 +44,13 @@ params:
     profileMode:
           enabled: true
           title: Nathaniel Barlow
-          subtitle: "I am a PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with a focus on immigrants and labor."
+          subtitle: "I am a PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with an emphasis on immigrants and labor."
           imageUrl: "headshot.jpg"
           imageWidth: 240
           imageHeight: 240
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Research
+              url: research/
             - name: CV
               url: cv/
 
