@@ -41,6 +41,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    profilePhotoAlignment: center
     profileMode:
           enabled: true
           title: Nathaniel Barlow
