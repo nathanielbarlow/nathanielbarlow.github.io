@@ -44,7 +44,8 @@ params:
     profileMode:
           enabled: true
           title: Nathaniel Barlow
-          subtitle: "I am a 4th-year PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with an emphasis on immigrants and labor."
+          subtitle: I am a 4th-year PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with an emphasis on immigrants and labor.
+           <br><br> I was awarded the Cambridge University Press Early-Stage Dissertation Grant by the <a href="https://eh.net/grants-fellowships/" > <u>Economic History Association</u>.</a>
           imageUrl: "headshot.jpg"
           imageWidth: 240
           imageHeight: 240
