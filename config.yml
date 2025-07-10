@@ -27,6 +27,7 @@ params:
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
+    ShowMenu: true
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
@@ -45,10 +46,12 @@ params:
           enabled: true
           title: Nathaniel Barlow
           subtitle: I am a 5th-year PhD candidate in Economics at UCLA. I study 20th century U.S. economic history with an emphasis on Asian Americans and labor.
-           <br><br> I received the Cambridge University Press Early-Stage Dissertation Grant, awarded by the <a href="https://eh.net/grants-fellowships/" > <u>Economic History Association</u> for my work on reparations.</a>
+           <br><br> I was selected for a <a href="https://ccpr.ucla.edu" > <u>CCPR</u> <a/> traineeship with the <a href="https://www.nichd.nih.gov" > <u> National Institute of Child Health and Human Development </u> <a/> in 2025. I also received the Cambridge University Press Early-Stage Dissertation Grant, awarded by the <a href="https://eh.net/grants-fellowships/" > <u>Economic History Association</u> </a> for my work on reparations.
           imageUrl: "headshot.jpg"
           imageWidth: 240
           imageHeight: 240
+          imageTitle: "Profile Picture"
+          imageAlign: "center"
           buttons:
             - name: Research
               url: research/
@@ -58,7 +61,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: resume_11_24.pdf
+          url: resume_7_25.pdf
         - name: Email
           url: mailto:nbarlow@g.ucla.edu
         - name: Location
