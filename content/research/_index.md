@@ -5,9 +5,9 @@ description: "Active Research"
 
 # Working Papers
 
-### Enemy Until Proven American: Occupation Effects of Japanese-American Incarceration  (w/ Kamelia Stavreva and Donato Onorato)
+### Occupation Effects of World War II Japanese-American Incarceration  
 
-Between 1942 and 1946, over 100,000 Japanese Americans, roughly 85% of Japanese individuals living in the mainland United States, were incarcerated in remote prison camps by the federal government. This paper reexamines the effects of this incarceration on the labor-market outcomes of interned Japanese men. After addressing three challenges to the quantification of these effects, we find incarceration decreased socio-economic status as measured by occupation score between 5-15% by 1950. We also provide suggestive evidence that Japanese-American men lagged behind their counterparts in their shift from agriculture toward more skilled and mechanized jobs and labor and lost valuable capital in the form of grocery businesses.
+In 1942, more than 100,000 Japanese Americans were forcibly incarcerated in detention camps by the U.S. government. In this paper, I replicate a recently published article in the *Journal of Economic History* that claims incarceration increased the victims’ income and show that this result is misleading due to selection into wage reporting. Because Japanese Americans were heavily employed in occupations with little wages before World War II, transitions into wage-earning employment mechanically increased reported wages without implying higher earnings. Using occupation score and linked transitions, I find that incarceration reduced occupational standing and generated persistent labor-market scarring.
 
 ### New Rights to Old Wrongs? Effects of Reparations to Japanese Americans  (w/ Kamelia Stavreva and Donato Onorato)
 

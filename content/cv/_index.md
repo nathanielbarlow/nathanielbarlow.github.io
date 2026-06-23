@@ -4,6 +4,6 @@ description: ""
 ---
 
 
-## [CV](resume_7_25.pdf)
+## [CV](resume_nwb.pdf)
 
-<iframe src="resume_7_25.pdf" width="100%" height="600px">
+<iframe src="resume_nwb.pdf" width="100%" height="600px">
